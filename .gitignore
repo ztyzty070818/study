@@ -1,3 +1,5 @@
 # Created by .ignore support plugin (hsz.mobi)
 target
-.idea/*
+.idea/
+src/main/java/db/
+src/test/
