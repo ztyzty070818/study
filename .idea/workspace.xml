@@ -5,93 +5,7 @@
     <bookmark url="file://$PROJECT_DIR$/../azkaban-my/azkaban-web-server/src/main/java/azkaban/webapp/servlet/ProjectManagerServlet.java" description="handleProjectPage(req, resp, session);" line="166" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="736feedd-0c00-4500-98b6-347305734ef9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_h2database_h2_1_4_196.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_velocity_velocity_1_7.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/apache/common/lang/StringEscapeUtilsTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/util/FilesRecovery.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/util/ShellUtil.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/velocity/controller/IndexController.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_7_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_curator_curator_framework_2_7_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_client_2_7_3.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_2_5.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_2_4.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/task/CheckProcessed.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/test/TestInterval.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.iml" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_1.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/E:/study/log4j/zhuwei.html" afterPath="$PROJECT_DIR$/src/main/resources/hellovelocity.vm" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/guava/base/Joiner/JoinerTest.java" afterPath="$PROJECT_DIR$/src/main/java/google/guava/base/Joiner/JoinerTest.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/guava/base/function/FunctionTest.java" afterPath="$PROJECT_DIR$/src/main/java/google/guava/base/function/FunctionTest.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/guava/base/optional/OptionalGuavaTest.java" afterPath="$PROJECT_DIR$/src/main/java/google/guava/base/optional/OptionalGuavaTest.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/guava/base/optional/OptionalTest.java" afterPath="$PROJECT_DIR$/src/main/java/google/guava/base/optional/OptionalTest.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/guava/cache/ConcurrentHMCacheTest.java" afterPath="$PROJECT_DIR$/src/main/java/google/guava/cache/ConcurrentHMCacheTest.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/guava/collections/collections2/lists/ListsTest.java" afterPath="$PROJECT_DIR$/src/main/java/google/guava/collections/collections2/lists/ListsTest.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/guava/collections/collections2/sets/SetsTest.java" afterPath="$PROJECT_DIR$/src/main/java/google/guava/collections/collections2/sets/SetsTest.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/guava/collections/extra/bimap/BiMapTest.java" afterPath="$PROJECT_DIR$/src/main/java/google/guava/collections/extra/bimap/BiMapTest.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/guava/collections/extra/class2instancemap/ClassToInstanceMapTest.java" afterPath="$PROJECT_DIR$/src/main/java/google/guava/collections/extra/class2instancemap/ClassToInstanceMapTest.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/guava/collections/extra/multimap/LinkedHashMultimapTest.java" afterPath="$PROJECT_DIR$/src/main/java/google/guava/collections/extra/multimap/LinkedHashMultimapTest.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/guava/collections/extra/multimap/MultimapTest.java" afterPath="$PROJECT_DIR$/src/main/java/google/guava/collections/extra/multimap/MultimapTest.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/guava/collections/extra/multiset/MultisetForMap.java" afterPath="$PROJECT_DIR$/src/main/java/google/guava/collections/extra/multiset/MultisetForMap.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/guava/collections/extra/multiset/MultisetTest.java" afterPath="$PROJECT_DIR$/src/main/java/google/guava/collections/extra/multiset/MultisetTest.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/guava/collections/extra/rangemap/RangeMapTest.java" afterPath="$PROJECT_DIR$/src/main/java/google/guava/collections/extra/rangemap/RangeMapTest.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/guava/collections/extra/rangeset/RangeSetTest.java" afterPath="$PROJECT_DIR$/src/main/java/google/guava/collections/extra/rangeset/RangeSetTest.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/guava/collections/extra/table/TableTest.java" afterPath="$PROJECT_DIR$/src/main/java/google/guava/collections/extra/table/TableTest.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/guava/collections/immutable/ImmutableSetTest.java" afterPath="$PROJECT_DIR$/src/main/java/google/guava/collections/immutable/ImmutableSetTest.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/guava/collections/immutable/Test.java" afterPath="$PROJECT_DIR$/src/main/java/google/guava/collections/immutable/Test.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/guava/file/TestFiles.java" afterPath="$PROJECT_DIR$/src/main/java/google/guava/file/TestFiles.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/guava/future/TestFuture.java" afterPath="$PROJECT_DIR$/src/main/java/google/guava/future/TestFuture.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/guava/future/TestFuture1.java" afterPath="$PROJECT_DIR$/src/main/java/google/guava/future/TestFuture1.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/guava/supplier/TestSupplier.java" afterPath="$PROJECT_DIR$/src/main/java/google/guava/supplier/TestSupplier.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/guice/clazz/BigClothes.java" afterPath="$PROJECT_DIR$/src/main/java/google/guice/clazz/BigClothes.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/guice/clazz/ClothesModule.java" afterPath="$PROJECT_DIR$/src/main/java/google/guice/clazz/ClothesModule.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/guice/clazz/LongTier.java" afterPath="$PROJECT_DIR$/src/main/java/google/guice/clazz/LongTier.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/guice/clazz/People.java" afterPath="$PROJECT_DIR$/src/main/java/google/guice/clazz/People.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/guice/clazz/RedShoes.java" afterPath="$PROJECT_DIR$/src/main/java/google/guice/clazz/RedShoes.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/guice/construct/Cat.java" afterPath="$PROJECT_DIR$/src/main/java/google/guice/construct/Cat.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/guice/construct/Eye.java" afterPath="$PROJECT_DIR$/src/main/java/google/guice/construct/Eye.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/guice/inject/clazz/Client.java" afterPath="$PROJECT_DIR$/src/main/java/google/guice/inject/clazz/Client.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/guice/inject/clazz/Hello.java" afterPath="$PROJECT_DIR$/src/main/java/google/guice/inject/clazz/Hello.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/guice/inject/clazz/HelloImpl.java" afterPath="$PROJECT_DIR$/src/main/java/google/guice/inject/clazz/HelloImpl.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/guice/inject/constructor/Client.java" afterPath="$PROJECT_DIR$/src/main/java/google/guice/inject/constructor/Client.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/guice/inject/constructor/Hello.java" afterPath="$PROJECT_DIR$/src/main/java/google/guice/inject/constructor/Hello.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/guice/inject/constructor/HelloCaller.java" afterPath="$PROJECT_DIR$/src/main/java/google/guice/inject/constructor/HelloCaller.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/guice/inject/constructor/HelloImpl.java" afterPath="$PROJECT_DIR$/src/main/java/google/guice/inject/constructor/HelloImpl.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/guice/inject/constructor/caller/ClientCaller.java" afterPath="$PROJECT_DIR$/src/main/java/google/guice/inject/constructor/caller/ClientCaller.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/guice/inject/constructor/caller/HelloCallerCaller.java" afterPath="$PROJECT_DIR$/src/main/java/google/guice/inject/constructor/caller/HelloCallerCaller.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/guice/inject/field/Client.java" afterPath="$PROJECT_DIR$/src/main/java/google/guice/inject/field/Client.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/guice/inject/field/Hello.java" afterPath="$PROJECT_DIR$/src/main/java/google/guice/inject/field/Hello.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/guice/inject/field/HelloCaller.java" afterPath="$PROJECT_DIR$/src/main/java/google/guice/inject/field/HelloCaller.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/guice/inject/field/HelloImpl.java" afterPath="$PROJECT_DIR$/src/main/java/google/guice/inject/field/HelloImpl.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/guice/inject/field/HelloImpl2.java" afterPath="$PROJECT_DIR$/src/main/java/google/guice/inject/field/HelloImpl2.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/guice/inject/setter/Client.java" afterPath="$PROJECT_DIR$/src/main/java/google/guice/inject/setter/Client.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/guice/inject/setter/Hello.java" afterPath="$PROJECT_DIR$/src/main/java/google/guice/inject/setter/Hello.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/guice/inject/setter/HelloCaller.java" afterPath="$PROJECT_DIR$/src/main/java/google/guice/inject/setter/HelloCaller.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/guice/inject/setter/HelloImpl.java" afterPath="$PROJECT_DIR$/src/main/java/google/guice/inject/setter/HelloImpl.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/guice/provides/ChatDao.java" afterPath="$PROJECT_DIR$/src/main/java/google/guice/provides/ChatDao.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/guice/provides/ChatDaoImpl.java" afterPath="$PROJECT_DIR$/src/main/java/google/guice/provides/ChatDaoImpl.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/guice/provides/ChatModule.java" afterPath="$PROJECT_DIR$/src/main/java/google/guice/provides/ChatModule.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/guice/provides/ChatService.java" afterPath="$PROJECT_DIR$/src/main/java/google/guice/provides/ChatService.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/guice/provides/ChatServiceImpl.java" afterPath="$PROJECT_DIR$/src/main/java/google/guice/provides/ChatServiceImpl.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/guice/provides/Main.java" afterPath="$PROJECT_DIR$/src/main/java/google/guice/provides/Main.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/hadoop/RegexAcceptPathFilter.java" afterPath="$PROJECT_DIR$/src/main/java/bigdata/hadoop/RegexAcceptPathFilter.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/hadoop/Sub.java" afterPath="$PROJECT_DIR$/src/main/java/bigdata/hadoop/Sub.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/hadoop/Sup.java" afterPath="$PROJECT_DIR$/src/main/java/bigdata/hadoop/Sup.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/hadoop/TestHadoop.java" afterPath="$PROJECT_DIR$/src/main/java/bigdata/hadoop/TestHadoop.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/kafka/TestProducer.java" afterPath="$PROJECT_DIR$/src/main/java/bigdata/kafka/TestProducer.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__joda_time_joda_time_2_9_9.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__joda_time_joda_time_2_9_9.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/interval/TestInterval.java" afterPath="$PROJECT_DIR$/src/main/java/interval/TestInterval.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/test/Test.java" afterPath="$PROJECT_DIR$/src/main/java/test/Test.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/test/TestRegex.java" afterPath="$PROJECT_DIR$/src/main/java/test/TestRegex.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/log4j.properties" afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tmp/hadoop/test" afterPath="$PROJECT_DIR$/tmp/hadoop/test" />
-    </list>
+    <list default="true" id="736feedd-0c00-4500-98b6-347305734ef9" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -105,12 +19,10 @@
       <file leaf-file-name="Test2.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/test/Test2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="8" column="65" lean-forward="false" selection-start-line="8" selection-start-column="65" selection-end-line="8" selection-end-column="65" />
+            <state relative-caret-position="270">
+              <caret line="15" column="50" lean-forward="false" selection-start-line="15" selection-start-column="50" selection-end-line="15" selection-end-column="50" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#709#710#0" expanded="true" />
-                <element signature="e#755#756#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -119,7 +31,7 @@
       <file leaf-file-name="DateTime.class" pinned="false" current-in-tab="false">
         <entry file="jar://$MAVEN_REPOSITORY$/joda-time/joda-time/2.9.9/joda-time-2.9.9.jar!/org/joda/time/DateTime.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
+            <state relative-caret-position="6498">
               <caret line="414" column="74" lean-forward="false" selection-start-line="414" selection-start-column="74" selection-end-line="414" selection-end-column="74" />
               <folding />
             </state>
@@ -151,7 +63,7 @@
       <file leaf-file-name="HelloQuartz.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/quartz/HelloQuartz.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
+            <state relative-caret-position="108">
               <caret line="11" column="3" lean-forward="false" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -402,17 +314,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="test" type="58d84e3e:PackageViewProjectNode" />
-              <item name="test" type="616d4139:PackageViewModuleNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -433,8 +334,19 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="test" type="58d84e3e:PackageViewProjectNode" />
+              <item name="test" type="616d4139:PackageViewModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
       <pane id="AndroidView" />
     </panes>
   </component>
@@ -713,17 +625,17 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="24" width="1855" height="1056" extended-state="6" />
+    <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="PlantUML" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32879582" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32809225" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2712042" sideWeight="0.50193477" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32984293" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5744235" sideWeight="0.49806523" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4350105" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3888889" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26508024" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Tail" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
@@ -745,6 +657,7 @@
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="MaxCompute Project Explorer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32809225" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -1049,7 +962,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="16560">
           <caret line="975" column="19" lean-forward="false" selection-start-line="975" selection-start-column="19" selection-end-line="975" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1152,7 +1064,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/quartz/HelloQuartz.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
+        <state relative-caret-position="108">
           <caret line="11" column="3" lean-forward="false" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1162,7 +1074,7 @@
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/joda-time/joda-time/2.9.9/joda-time-2.9.9.jar!/org/joda/time/DateTime.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
+        <state relative-caret-position="6498">
           <caret line="414" column="74" lean-forward="false" selection-start-line="414" selection-start-column="74" selection-end-line="414" selection-end-column="74" />
           <folding />
         </state>
@@ -1170,12 +1082,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/test/Test2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="65" lean-forward="false" selection-start-line="8" selection-start-column="65" selection-end-line="8" selection-end-column="65" />
+        <state relative-caret-position="270">
+          <caret line="15" column="50" lean-forward="false" selection-start-line="15" selection-start-column="50" selection-end-line="15" selection-end-column="50" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#709#710#0" expanded="true" />
-            <element signature="e#755#756#0" expanded="true" />
           </folding>
         </state>
       </provider>
