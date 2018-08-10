@@ -1,0 +1,16 @@
+2018-04-12 09:39:52  [ main:0 ] - [ INFO ]  Sending a message!
+2018-04-12 09:39:52  [ main:4 ] - [ INFO ]  Hello,my name is Zhong Gang!
+2018-04-12 09:39:52  [ main:7 ] - [ INFO ]  Sended a message!
+2018-04-12 09:39:52  [ main:7 ] - [ INFO ]  Received a message!
+2018-04-12 09:39:52  [ main:7 ] - [ INFO ]  receive message content!
+2018-04-12 09:40:22  [ main:0 ] - [ INFO ]  Sending a message!
+2018-04-12 09:40:22  [ main:3 ] - [ INFO ]  Hello world!
+2018-04-12 09:40:22  [ main:5 ] - [ INFO ]  Sended a message!
+2018-04-12 09:40:22  [ main:6 ] - [ INFO ]  Received a message!
+2018-04-12 09:40:22  [ main:6 ] - [ INFO ]  receive message content!
+2018-04-12 09:45:30  [ main:0 ] - [ INFO ]  Sending a message!
+2018-04-12 10:02:07  [ main:0 ] - [ INFO ]  Sending a message!
+2018-04-12 10:02:07  [ main:2 ] - [ INFO ]  Hello world!
+2018-04-12 10:02:07  [ main:4 ] - [ INFO ]  Sended a message!
+2018-04-12 10:02:07  [ main:5 ] - [ INFO ]  Received a message!
+2018-04-12 10:02:07  [ main:5 ] - [ INFO ]  receive message content!

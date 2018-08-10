@@ -1,12 +1,11 @@
 package interval;
 
 
-import java.util.Comparator;
 import java.util.TreeSet;
 
 public class TestInterval {
     public static void main(String[] args) {
-        TreeSet<Integer> treeSet = new TreeSet(
+        TreeSet treeSet = new TreeSet(
                 (lhs, rhs) -> {
                     if(lhs instanceof Integer && rhs instanceof Integer) {
                         return ((Integer) rhs).compareTo((Integer) lhs);

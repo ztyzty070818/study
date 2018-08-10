@@ -1,0 +1,5 @@
+
+$greet $name $test ${greet}
+#foreach($i in $list)
+$i
+#end
