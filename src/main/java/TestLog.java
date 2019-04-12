@@ -15,6 +15,7 @@ public class TestLog {
 		logger.debug("debug ------");
 		logger.error("error ------");
 
+		System.out.println("\n".length());
 		System.out.println("test");
 	}
 

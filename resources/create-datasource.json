@@ -1,0 +1,107 @@
+{
+  "datasourceName": "projects",
+  "partitions": 4,
+  "shardSpec": {
+    "type": "single",
+    "dimension": "id",
+    "partitionNum": -1
+  },
+  "columnDelimiter": "\u0001",
+  "dimensions": [
+    {
+      "type": "string",
+      "name": "id",
+      "hasMultipleValues": false
+    },
+    {
+      "type": "string",
+      "name": "name",
+      "hasMultipleValues": false
+    },
+    {
+      "type": "string",
+      "name": "active",
+      "hasMultipleValues": false
+    },
+    {
+      "type": "long",
+      "name": "modified_time",
+      "hasMultipleValues": false
+    },
+    {
+      "type": "long",
+      "name": "create_time",
+      "hasMultipleValues": false
+    },
+    {
+      "type": "int",
+      "name": "version",
+      "hasMultipleValues": false
+    },
+    {
+      "type": "string",
+      "name": "last_modified_by",
+      "hasMultipleValues": false
+    },
+    {
+      "type": "string",
+      "name": "description",
+      "hasMultipleValues": false
+    },
+    {
+      "type": "int",
+      "name": "enc_type",
+      "hasMultipleValues": false
+    },
+    {
+      "type": "string",
+      "name": "settings_blob",
+      "hasMultipleValues": false
+    },
+    {
+      "type": "string",
+      "name": "show_name",
+      "hasMultipleValues": false
+    },
+    {
+      "type": "string",
+      "name": "business_time",
+      "hasMultipleValues": false
+    },
+    {
+      "type": "int",
+      "name": "type_id",
+      "hasMultipleValues": false
+    },
+    {
+      "type": "string",
+      "name": "ref_project_id",
+      "hasMultipleValues": false
+    },
+    {
+      "type": "string",
+      "name": "ref_project_name",
+      "hasMultipleValues": false
+    },
+    {
+      "type": "string",
+      "name": "cron_expression",
+      "hasMultipleValues": false
+    },
+    {
+      "type": "string",
+      "name": "cron_info",
+      "hasMultipleValues": false
+    },
+    {
+      "type": "int",
+      "name": "data_time_offset",
+      "hasMultipleValues": false
+    },
+    {
+      "type": "string",
+      "name": "time_granularity",
+      "hasMultipleValues": false
+    }
+  ]
+}
